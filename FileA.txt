@@ -1,3 +1,4 @@
 "FileA" 
 "Adding second line" 
 "Ading third line" 
+"Adding 4th line from feature1" 
